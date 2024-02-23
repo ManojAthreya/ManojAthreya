@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 ನಮಸ್ಕಾರ 🙏🏻 | Welcome 👋🏼 I'm Manoj Athreya A 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,26 +18,15 @@ I'm an aspiring Machine Learning Engineer with expertise in Machine Learning, Na
 
 **WORK EXPERIENCE**
 
-- *Machine Learning Associate, VECTOR INSTITUTE*
-- *Machine Learning Intern, BLUE GUARDIAN*
-- *Financial Data Analyst, MINTO GROUPS*
-- *Assistant System Engineer, TATA CONSULTANCY SERVICES*
-
-**Languages and Tools** 
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="PyTorch" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" />
-<img align="left" alt="HuggingFace" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/huggingface/huggingface.png" />
-<img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="PowerBI" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" />
-<img align="left" alt="Tableau" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png" />
+- Machine Learning Associate, VECTOR INSTITUTE
+- Machine Learning Intern, BLUE GUARDIAN
+- Financial Data Analyst, MINTO GROUPS
+- Assistant System Engineer, TATA CONSULTANCY SERVICES
 
 **PROJECTS**
-
-*Code Synthesis Using LLM Models*
-*Summarization of Customer Feedback: Reviews, Complaints and Suggestions*
-*Twitter Data ETL Project*
-*StackOverflow Tag Prediction*
+- Code Synthesis Using LLM Models
+- Summarization of Customer Feedback: Reviews, Complaints and Suggestions
+- Twitter Data ETL Project
+- StackOverflow Tag Prediction
 
 📫 How to reach me: Feel free to email me at [manoj2375@gmail.com](manoj2375@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/manojathreyaa/).

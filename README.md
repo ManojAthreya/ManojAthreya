@@ -3,7 +3,7 @@
 I'm an aspiring Machine Learning Engineer with expertise in Machine Learning, Natural Language Processing and Data Science with 2+ years of Professional Experience. 
 I'm a dynamic professional with a strong computer science foundation, proficient in a variety of programming languages and technologies. I am known for my ability to solve complex technical problems, collaborate effectively with cross-functional teams, and deliver high-quality solutions that meet business needs. I am committed to staying up-to-date with the latest industry trends and best practices and responsibly build and use AI.
 
-[Gmail Badge](manoj2375@gmail.com) | [Linkedin Badge](https://www.linkedin.com/in/manojathreyaa/]) | 🤖 [Huggingface](https://huggingface.co/Villian7) | ⚡ [Google Scholar](https://scholar.google.ca/citations?user=QHLQdloAAAAJ&hl=en)
+📧 manoj2375@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/manojathreyaa/]) | 🤖 [Huggingface](https://huggingface.co/Villian7) | ⚡ [Google Scholar](https://scholar.google.ca/citations?user=QHLQdloAAAAJ&hl=en)
 
 🔭 I’m currently working on Improving my skills in Machine Learning & Natural Language Processing.
 
@@ -15,15 +15,26 @@ I'm a dynamic professional with a strong computer science foundation, proficient
 
 **EDUCATION**
 
-- MASTER'S COMPUTER SCIENCE, UNIVERSITY OF OTTAWA, CANADA 2022-2024
-- BACHELOR'S COMPUTER SCIENCE, VIDYAVARDHAKA COLLEGE OF ENGINEERING, INDIA 2016-2020
+- Master's Computer Science, University of Ottawa, Canada 2022-2024
+- Bachelor's Computer Science, Vidyavardhaka College of Engineering, India 2016-2020
 
 **WORK EXPERIENCE**
 
-- **MACHINE LEARNING ASSOCIATE, VECTOR INSTITUTE**
-- **MACHINE LEARNING INTERN, BLUE GUARDIAN**
-- **FINANCIAL DATA ANALYST, MINTO GROUPS**
-- **ASSISTANT SYSTEM ENGINEER, TATA CONSULTANCY SERVICES**
+- **Machine Learning Associate, VECTOR INSTITUTE**
+- **Machine Learning Intern, BLUE GUARDIAN**
+- **Financial Data Analyst, MINTO GROUPS**
+- **Assistant System Engineer, TATA CONSULTANCY SERVICES**
+
+### Languages and Tools: 
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br>
+<br>
 
 **PROJECTS**
 

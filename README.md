@@ -6,7 +6,7 @@
 
 <p align="center">I'm a Developer and Researcher.<br/>I specialize in Machine Learning and Natural Language Processing.<br></p><br/>
 
-<p align="justify">I'm an aspiring Machine Learning Engineer with expertise in Machine Learning, Natural Language Processing and Data Science with 2+ years of Professional Experience. I'm a dynamic professional with a strong computer science foundation, I am known for my ability to solve complex technical problems, collaborate effectively with cross-functional teams, and deliver high-quality solutions that meet business needs. I am committed to staying up-to-date with the latest industry trends and best practices and responsibly build and use AI.</p>
+<p align="justify">I'm an aspiring Machine Learning Engineer with expertise in Machine Learning, Natural Language Processing and Data Science with 2+ years of Professional Experience. I'm a dynamic professional with a strong computer science foundation, I am known for my ability to solve complex technical problems, collaborate effectively with cross-functional teams, and deliver high-quality solutions that meet business needs. I am committed to staying up-to-date with the latest industry trends and best practices and responsibly building and using AI </p>
 
 📫 manoj2375@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/manojathreyaa/) | 🤖 [Huggingface](https://huggingface.co/Villian7) | ⚡ [Google Scholar](https://scholar.google.ca/citations?user=QHLQdloAAAAJ&hl=en)
 
@@ -18,7 +18,8 @@
 
 💬 Ask me about Machine Learning Algorithms, LLMs, MLOPS, Model Deployment, Data Engineering and AWS Cloud.
 
-**PROJECTS**
+[**PROJECTS**](https://github.com/ManojAthreya/LLM)
+- Web Scrapped Product Analysis using RAG
 - Code Synthesis Using LLM Models
 - Summarization of Customer Feedback: Reviews, Complaints and Suggestions
 - Twitter Data ETL Project

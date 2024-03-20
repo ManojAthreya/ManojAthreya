@@ -19,10 +19,10 @@
 💬 Ask me about Machine Learning Algorithms, LLMs, MLOPS, Model Deployment, Data Engineering and AWS Cloud.
 
 [**PROJECTS**](https://github.com/ManojAthreya/LLM)
-- Web Scrapped Product Analysis using RAG
-- Code Synthesis Using LLM Models
+- [Product Analysis using RAG](https://github.com/ManojAthreya/RAG_Product_Research/tree/main)
+- [Code Synthesis Using LLM Models](https://github.com/ManojAthreya/LLM/blob/main/01Coder.py)
 - Summarization of Customer Feedback: Reviews, Complaints and Suggestions
 - Twitter Data ETL Project
-- StackOverflow Tag Prediction
+- [StackOverflow Tag Prediction](https://github.com/ManojAthreya/NLP_Project_CSI5386)
 
 Thanks for visiting my profile! Have a good day!😄
